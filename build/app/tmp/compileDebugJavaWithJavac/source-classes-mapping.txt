@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/fiyboz/sedil/sedil/BuildConfig.java
+ com.fiyboz.sedil.sedil.BuildConfig

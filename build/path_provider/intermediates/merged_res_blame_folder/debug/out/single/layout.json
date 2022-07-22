@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ialti/Sedil/build/path_provider/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ialti/.gradle/caches/transforms-3/7b6a6aabfdb9d4e51c05bf3695acef31/transformed/core-1.6.0/res/layout/notification_action.xml"
+    }
+]

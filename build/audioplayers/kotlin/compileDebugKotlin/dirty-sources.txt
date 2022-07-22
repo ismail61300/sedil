@@ -1,0 +1,7 @@
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/ByteDataSource.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/ReleaseMode.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/AudioplayersPlugin.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/Player.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/WrappedMediaPlayer.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/Logger.kt
+/Users/ialti/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/src/main/kotlin/xyz/luan/audioplayers/WrappedSoundPool.kt
